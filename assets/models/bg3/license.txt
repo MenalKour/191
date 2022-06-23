@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sky Pano - Serpentine Valley
+* source:	https://sketchfab.com/3d-models/sky-pano-serpentine-valley-426fad3f10f1487790008f34bc355d9d
+* author:	MozillaHubs (https://sketchfab.com/mozillareality)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sky Pano - Serpentine Valley" (https://sketchfab.com/3d-models/sky-pano-serpentine-valley-426fad3f10f1487790008f34bc355d9d) by MozillaHubs (https://sketchfab.com/mozillareality) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
